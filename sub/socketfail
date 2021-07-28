@@ -274,7 +274,7 @@
 139.99.123.171
 14.152.92.72:12127
 14.152.92.76:12127
-14.152.92.78:12127
+14.152.92.78
 14.152.92.80
 14.152.92.81:12127
 141.98.101.251
@@ -586,7 +586,7 @@
 18.166.152.161
 18.166.177.254
 18.166.249.196
-18.166.52.250:80
+18.166.52.250
 18.166.53.230
 18.167.103.112
 18.167.120.97
@@ -1357,7 +1357,6 @@
 3.113.18.66
 3.115.5.8
 3.115.6.115:443
-3.121.162.83
 3.33.135.147
 3.35.175.255
 3.35.218.230
@@ -2229,7 +2228,7 @@
 96.43.91.58:443
 96.43.91.59
 96.43.91.60:443
-97.64.31.80:443
+97.64.31.80
 98.142.220.35
 98.142.220.37
 99.83.163.164
@@ -2266,7 +2265,6 @@ aga.noic.ml
 aga2.v2ky.co
 agahk.q88q.ml
 agajpchensir.ednovas.me
-agals01.cloudddns.icu
 agals03.v2raya.xyz
 agals05.v2raya.xyz
 ah.keaiyun.xyz
@@ -2301,7 +2299,6 @@ c1s5.jamjams.net:19970
 c1s801.jamjams.net:19970
 c23s3.jamjams.net:61173
 c23s801.jamjams.net:61173
-c27821f.rb.cloudflare.systems:80
 c39s3.jamjams.net:61535
 c39s4.jamjams.net:10606
 ca.linn.ink
@@ -2361,7 +2358,6 @@ cu-cs.okvpn.xyz:30015
 cusouthcmhk.procncon.xyz:542
 cusouthcmhk.procncon.xyz:543
 cusouthcmhk.procncon.xyz:546
-d0a8692.na.gladns.com
 d872c788-cbcc-4870-a7cc-d8dc559bb5fa.ddns.moonvm.net
 daling.ink
 dd.199301.xyz
@@ -2369,7 +2365,6 @@ dd001.zhuan666.top:11601
 de.linn.ink
 desperado.ml
 dg-hk-node01.linkthink.app:10210
-dld01.xqkj.cloud
 dld15.xqkj.cloud:1615
 dtda.dfiiopopiwsdadsda.ga:443
 e007.zhuan666.top:11107
@@ -2381,10 +2376,6 @@ egg.mooncloud.top:8080
 els.jklist.ga:2095
 em003.v2ray008.top:80
 eu-05.yinriver.top
-f6de841.gd.gladns.com
-f6de841.nf.gladns.com
-f6de841.rf.gladns.com
-ff5c0fb.ra.cloudflare.systems
 fh2.opvpn.cn:443
 file.cn-os-qj-down.xyz
 file.tushanhy.cn
@@ -2519,7 +2510,7 @@ hk4.xyttk.vip
 hk5.speedsvip.co
 hk6.xyttk.vip
 hk7.xyttk.vip
-hk79.99uu.team:23430
+hk79.99uu.team
 hk8.huanyumingle.xyz
 hk8.xyttk.vip
 hkaws.huarenlife.top
@@ -2644,7 +2635,7 @@ jp06-n29.xiaoxiaofeng.xyz
 jp1.bingbinghouse.com:443
 jp1.direct.iplc.pro
 jp1.direct.starlink.st:52000
-jp116.v2moe.tk:39151
+jp116.v2moe.tk
 jp2-relay.kejibearnode.cf
 jp2.direct.starlink.st:52000
 jp2.noic.ml
@@ -2718,9 +2709,9 @@ kr-cn-relay-4-45523.dukou.info
 kr-cn-relay-5-566d12.dukou.info
 kr-cn-relay-6-6454dc.dukou.info
 kr-free.vmess.vip
-kr.yyds.ilaosiji.xyz:80
+kr.yyds.ilaosiji.xyz
 kr1.direct.starlink.st:52000
-kr105.wwin.ga:31404
+kr105.wwin.ga
 kr2.lala2021.tk:443
 kraws1.biteb.xyz
 kror1.liyun.edu.pl:80
@@ -2787,7 +2778,7 @@ node07-v2ray.cloudddns.icu
 node08-trojan.cloudddns.icu
 oracle-seoul-132.226.19.245.internet-cloudflare-accelerate.tk
 osk17.speedsvip.co
-p2.22332e.com:8333
+p2.22332e.com
 p3.twfast789.com:8333
 p4.22332e.com
 p5.22332e.com
@@ -2974,7 +2965,7 @@ ssr5.ssrsub.one
 superaga.okvpn.xyz
 superaga.smdynet.com
 superstar.hk.03.srayx.xyz
-superstar.hk.05.srayx.xyz:80
+superstar.hk.05.srayx.xyz
 superstar.hk.06.srayx.xyz
 superstar.jp.01.srayx.xyz:20218
 superstar.jp.03.srayx.xyz
