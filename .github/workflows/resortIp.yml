@@ -27,6 +27,6 @@ jobs:
       - run: chmod  777 ./gradlew
       - name: execute gradle test
         run: ./gradlew  :test --tests "me.leon.ip.IpFilterTest.reTestFailIps"
-      - run: git config --global user.email "deadogone@gmail.com" &&git config --global user.name "github-ci"
+      - run: git config --global user.email "sikeming@qq.com" &&git config --global user.name "moneyfly521"
       - run: chmod  777 ./up.sh && ./up.sh
 
